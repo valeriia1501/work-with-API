@@ -1,0 +1,40 @@
+.loader {
+    display: none;
+    text-align: center;
+}
+
+body {
+    background-color: beige;
+}
+
+h1 {
+    text-align: center;
+}
+
+.gen-text {
+    padding: 10px;
+}
+
+form {
+    margin: 20px;
+}
+
+strong {
+    color: brown;
+}
+
+img {
+    width: 800px;
+    display: block;
+    margin: 20px auto;
+    border-radius: 20px;
+}
+
+.logo {
+    position: absolute;
+}
+
+.logo img {
+    width: 50px;
+    margin: 0 20px;
+}
